@@ -1,13 +1,57 @@
+🏡 AirBnB Clone Project
+📌 Project Description
+
+This project is a full-stack clone of the popular accommodation booking platform AirBnB.
+The goal is to build a functional web application that allows users to:
+
+Browse property listings
+
+View detailed property information
+
+Complete bookings
+
+The project will cover frontend development, backend APIs, database design, and deployment.
+
+🎯 Learning Objectives
+
+By completing this project, you will:
+
+Implement responsive UI/UX designs
+
+Understand how to structure a complex web application
+
+Practice working in a team with defined roles
+
+Develop skills in component-based frontend architecture
+
+Apply best practices for modern web application development
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript (React or similar framework)
+
+Version Control: Git and GitHub
+
+Design Tools: Figma for UI/UX design
+
+📂 Project Initialization
+
+GitHub Repository: airbnb-clone-project
+
+Main File: README.md
+
+Documentation includes project overview, goals, and tech stack
+
 🎨 UI/UX Design Planning
 ✅ Design Goals
 
-Create an intuitive booking flow for users
+Create an intuitive booking flow
 
-Maintain visual consistency across all pages
+Maintain visual consistency
 
-Ensure fast loading times for better performance
+Ensure fast loading times
 
-Prioritize mobile responsiveness for all devices
+Prioritize mobile responsiveness
 
 ✨ Key Features
 
@@ -17,15 +61,20 @@ Detailed property viewing
 
 Secure checkout process
 
-User authentication system
+User authentication
 
 📄 Primary Pages
 Page	Description
-Property Listing View	Displays a grid of available properties with filters for location, price, and amenities
-Listing Detailed View	Shows complete property details, including images, amenities, pricing, and booking form
-Simple Checkout View	Streamlined payment process with booking confirmation
+Property Listing View	Grid display of available properties with filters
+Listing Detailed View	Complete property details with images and booking form
+Simple Checkout View	Streamlined payment and booking confirmation
+💡 Importance of User-Friendly Design
+
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction.
+Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
 🎨 Figma Design Specifications
-Color Styles
+🎨 Color Styles
 
 Primary: #FF5A5F
 
@@ -37,36 +86,77 @@ Text: #222222
 
 Secondary Text: #717171
 
-Typography
+✍️ Typography
 
 Primary Font: Circular
 
 Headings: Bold (700), 24px–32px
 
-Body Text: Medium (500), 16px
+Body: Medium (500), 16px
 
 Secondary Text: Book (400), 14px
 
-💡 Importance of a User-Friendly Design
+🔑 Why Identify Design Properties?
 
-A user-friendly booking system reduces friction, increases conversion rates, and improves customer satisfaction.
+Identifying design properties in a mockup ensures consistency across the app.
+It helps developers and designers maintain a unified visual identity, speeds up implementation, and ensures accessibility compliance.
 
-Clear navigation helps users find properties quickly
+👥 Project Roles and Responsibilities
+Role	Responsibilities
+Project Manager	Oversees timeline, coordinates team, manages deliverables
+Frontend Developers	Implement UI components, ensure responsive design
+Backend Developers	Build APIs, manage database, implement business logic
+Designers	Create mockups, maintain design system, ensure UX quality
+QA/Testers	Write test cases, perform testing, report bugs
+DevOps Engineers	Manage deployment, CI/CD pipeline, server infrastructure
+Product Owner	Define requirements, prioritize features, represent stakeholders
+Scrum Master	Facilitate agile processes, remove blockers, organize meetings
+🧩 UI Component Patterns
+Planned Components
+🔝 Navbar
 
-Intuitive interfaces make the booking process smooth
+Logo
 
-Responsive design ensures accessibility on all devices
+Search bar
 
-🔑 Importance of Identifying Design Properties
+User navigation
 
-Identifying design properties in a mockup is crucial for development and collaboration:
+Responsive menu
 
-Ensures visual consistency across all pages and components
+🏘 Property Card
 
-Helps developers quickly translate designs into code
+Property image
 
-Maintains a unified brand identity (colors, fonts, and layouts stay consistent)
+Basic details (price, location, rating)
 
-Speeds up teamwork by giving designers and developers a shared reference point
+Favorite button
 
-Supports accessibility compliance by defining readable typography and color contrasts
+Responsive layout
+
+📌 Footer
+
+Site links
+
+Company information
+
+Social media links
+
+Copyright information
+
+Each component will be reusable, responsive, and consistent across the application.
+
+📝 Project Assessment (Hybrid)
+
+Your project will be evaluated primarily through manual reviews.
+
+To ensure full score:
+
+✅ Complete your project on time
+
+📄 Submit all required files
+
+🔗 Generate your review link
+
+👥 Get peer reviews
+
+⚡ An auto-check will also verify the presence of core files needed for manual review.
